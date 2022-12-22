@@ -1,0 +1,18 @@
+C:\Users\user.DESKTOP-OMQ89VA\OneDrive\Documents\Visual Studio 2015\Projects\kurdish-keybord\kurdish-keybord\bin\Debug\kurdish-keybord.exe.config
+C:\Users\user.DESKTOP-OMQ89VA\OneDrive\Documents\Visual Studio 2015\Projects\kurdish-keybord\kurdish-keybord\bin\Debug\kurdish-keybord.exe
+C:\Users\user.DESKTOP-OMQ89VA\OneDrive\Documents\Visual Studio 2015\Projects\kurdish-keybord\kurdish-keybord\bin\Debug\kurdish-keybord.pdb
+C:\Users\user.DESKTOP-OMQ89VA\OneDrive\Documents\Visual Studio 2015\Projects\kurdish-keybord\kurdish-keybord\obj\Debug\kurdish-keybord.csprojResolveAssemblyReference.cache
+C:\Users\user.DESKTOP-OMQ89VA\OneDrive\Documents\Visual Studio 2015\Projects\kurdish-keybord\kurdish-keybord\obj\Debug\kurdish_keybord.Form1.resources
+C:\Users\user.DESKTOP-OMQ89VA\OneDrive\Documents\Visual Studio 2015\Projects\kurdish-keybord\kurdish-keybord\obj\Debug\kurdish_keybord.Properties.Resources.resources
+C:\Users\user.DESKTOP-OMQ89VA\OneDrive\Documents\Visual Studio 2015\Projects\kurdish-keybord\kurdish-keybord\obj\Debug\kurdish-keybord.csproj.GenerateResource.Cache
+C:\Users\user.DESKTOP-OMQ89VA\OneDrive\Documents\Visual Studio 2015\Projects\kurdish-keybord\kurdish-keybord\obj\Debug\kurdish-keybord.exe
+C:\Users\user.DESKTOP-OMQ89VA\OneDrive\Documents\Visual Studio 2015\Projects\kurdish-keybord\kurdish-keybord\obj\Debug\kurdish-keybord.pdb
+C:\Users\user.DESKTOP-OMQ89VA\OneDrive\Documents\Visual Studio 2015\Projects\kurdish-keybord - Copy\kurdish-keybord\bin\Debug\kurdish-keybord.exe.config
+C:\Users\user.DESKTOP-OMQ89VA\OneDrive\Documents\Visual Studio 2015\Projects\kurdish-keybord - Copy\kurdish-keybord\obj\Debug\kurdish-keybord.exe
+C:\Users\user.DESKTOP-OMQ89VA\OneDrive\Documents\Visual Studio 2015\Projects\kurdish-keybord - Copy\kurdish-keybord\obj\Debug\kurdish-keybord.pdb
+C:\Users\user.DESKTOP-OMQ89VA\OneDrive\Documents\Visual Studio 2015\Projects\kurdish-keybord - Copy\kurdish-keybord\bin\Debug\kurdish-keybord.exe
+C:\Users\user.DESKTOP-OMQ89VA\OneDrive\Documents\Visual Studio 2015\Projects\kurdish-keybord - Copy\kurdish-keybord\bin\Debug\kurdish-keybord.pdb
+C:\Users\user.DESKTOP-OMQ89VA\OneDrive\Documents\Visual Studio 2015\Projects\kurdish-keybord - Copy\kurdish-keybord\obj\Debug\kurdish-keybord.csprojResolveAssemblyReference.cache
+C:\Users\user.DESKTOP-OMQ89VA\OneDrive\Documents\Visual Studio 2015\Projects\kurdish-keybord - Copy\kurdish-keybord\obj\Debug\kurdish_keybord.Form1.resources
+C:\Users\user.DESKTOP-OMQ89VA\OneDrive\Documents\Visual Studio 2015\Projects\kurdish-keybord - Copy\kurdish-keybord\obj\Debug\kurdish_keybord.Properties.Resources.resources
+C:\Users\user.DESKTOP-OMQ89VA\OneDrive\Documents\Visual Studio 2015\Projects\kurdish-keybord - Copy\kurdish-keybord\obj\Debug\kurdish-keybord.csproj.GenerateResource.Cache
